@@ -1,0 +1,10 @@
+Comandos Git e para que servem
+
+1º) Comando: git init - serve para iniciar um repositório escolhendo o diretório onde se quer trabalhar e você inicia o repositório na pasta escolhida com este comando;
+
+2º) Comando: git status - verifica o status do repositório atual, então, sempre que você quiser saber como o git está se comportando em relação a posata que você está, utiliza-se este comando;
+
+3º) Comando: git add. - adiciona arquivos ao repositório para serem rastreados pelo git;
+
+4º) Comando: git commit -m "Mensagens" - efetua um commit das alterações, ou grava no git as alterações no arquivo e permiti identificar as alterações através de mensagns;
+
