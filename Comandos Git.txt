@@ -8,5 +8,22 @@ Comandos Git e para que servem
 
 4º) Comando: git commit -m "Mensagens" - efetua um commit das alterações, ou grava no git as alterações no arquivo e permiti identificar as alterações através de mensagns;
 
-5º) Comando - git log - serve para visualizar o histórico de commits
+5º) Comando - git log - serve para visualizar o histórico de commits;
+
+6º) Comando - git checkout <commit id> - serve para navegar entre os commits realizados e verificar as versões dos arquivos, as alterações realizadas; 
+
+
+Os 3 Estágios do Git:
+
+- committed (gravado) - Significa que o dado está armazenado com segurança, localmente no computador;
+- modified (modoficado) - Significa que você modificou o arquivo, mas ainda não gravou, ou não efetuou o commit;
+- Staged (selecionados) - Significa que você marcou um arquivo modificado na versão corrente, para fazer parte do seu próximo commit.
+
+Tendo em vista os 3 estágios, o fluxo básico, ou o Workflow básico é:
+
+- Modifique seus arquivos;
+- Selecione os arquivos que farão parte do seu próximo commit (git add <nome do arquivo>);
+- Faça o commit que usará os aruqivos que estão no Staged (git commit -m "Mensagens" ).
+
+
 
