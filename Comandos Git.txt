@@ -8,3 +8,5 @@ Comandos Git e para que servem
 
 4º) Comando: git commit -m "Mensagens" - efetua um commit das alterações, ou grava no git as alterações no arquivo e permiti identificar as alterações através de mensagns;
 
+5º) Comando - git log - serve para visualizar o histórico de commits
+
