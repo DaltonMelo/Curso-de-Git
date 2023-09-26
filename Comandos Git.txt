@@ -10,7 +10,9 @@ Comandos Git e para que servem
 
 5º) Comando - git log - serve para visualizar o histórico de commits;
 
-6º) Comando - git checkout <commit id> - serve para navegar entre os commits realizados e verificar as versões dos arquivos, as alterações realizadas; 
+6º) Comando - git checkout <commit id> - serve para navegar entre os commits realizados e verificar as versões dos arquivos, as alterações realizadas;
+
+7º) Comando - git checkout master - este comando serve para ir para ultima versão do arquivo, para as ultimas alterações; 
 
 
 Os 3 Estágios do Git:
